@@ -12,17 +12,11 @@
   </a>  
 </p>
 
-__This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Filter-Bot](https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot)..__
-
-__Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button__
-
+__I am fine 😶
 
 ## Usage
 
-**__How To Use Me!?__**
-
-* -> Add me to any group and make me admin<br>
-* -> Add me to your channel as admin with full previlages
+**__sorry 😁
 
 **Bot Commands (Works Only In Groups) :**
 
@@ -67,8 +61,6 @@ OR
 
 ## Deploy
 You can deploy this bot anywhere.
-
-<i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
